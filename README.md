@@ -1,15 +1,31 @@
+> ## 🇹🇷 TÜRKÇE ÇEVİRİ BİLGİLENDİRMESİ (TURKISH TRANSLATION NOTICE)
+>
+> Bu repo, SAP'nin resmi [styleguides](https://github.com/SAP/styleguides) projesinin bir kopyasıdır (fork). Bu kopyanın temel amacı, **Clean ABAP** rehberinin Türkçe çevirisini ABAP geliştirici topluluğu ile paylaşmaktır.
+>
+> ### ➡️ [Clean ABAP Türkçe Çevirisine Ulaşmak İçin Tıklayın](https://github.com/efeumutaslan/styleguides/blob/clean-abap-turkish-translations/clean-abap/CleanABAP_tr.md)
+>
+> Yukarıdaki link, sizi doğrudan çeviri dosyalarının bulunduğu `clean-abap-turkish-translations` branch'ine yönlendirecektir.
+>
+> ---
+>
+> > **TURKISH TRANSLATION NOTICE**
+> >
+> > This is a fork of SAP's official [styleguides](https://github.com/SAP/styleguides) repository. The main purpose of this fork is to host the Turkish translation of the **Clean ABAP** guide. You can access the translation by clicking the link above. The Pull Request for this translation is currently pending review in the original repository.
+
+---
+
 # SAP Code Style Guides
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP/styleguides)](https://api.reuse.software/info/github.com/SAP/styleguides)
 
 [**Continuous Release**](#continuous-release)
-&nbsp;·&nbsp;
+ · 
 [**Open Source**](#open-source)
-&nbsp;·&nbsp;
+ · 
 [**Grassroots Project**](#grassroots-project)
-&nbsp;·&nbsp;
+ · 
 [**Optional**](#optional)
-&nbsp;·&nbsp;
+ · 
 [**Ecosystem**](#ecosystem)
 
 This repository provides SAP's style guides for coding.
@@ -82,6 +98,6 @@ This applies equally to in-house developers, partners, and customers.
 
 We believe that clean code comes from conviction, not from pressure.
 
-## Ecosystem 
+## Ecosystem
 
-If you want to learn more about the motivation, the underlying principles and the forming ecosystem of tools, books and related practices around the style guide, you can follow the [blog on Clean Code: Writing maintainable, readable and testable code](https://blogs.sap.com/2022/12/21/clean-code-writing-maintainable-readable-and-testable-code/).  
+If you want to learn more about the motivation, the underlying principles and the forming ecosystem of tools, books and related practices around the style guide, you can follow the [blog on Clean Code: Writing maintainable, readable and testable code](https://blogs.sap.com/2022/12/21/clean-code-writing-maintainable-readable-and-testable-code/).

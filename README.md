@@ -2,7 +2,7 @@
 
 Bu repo, SAP'nin resmi `styleguides` projesinin bir kopyasıdır (fork) ve **Clean ABAP** rehberinin topluluk tarafından yapılmış Türkçe çevirisini barındırmaktadır.
 
-### ➡️ [Çeviriyi Görüntülemek İçin Buraya Tıklayın](https://github.com/KULLANICI_ADINIZ/styleguides/tree/TURKCE_CEVIRI_BRANCH_ADINIZ/clean-abap)
+### ➡️ [Çeviriyi Görüntülemek İçin Buraya Tıklayın](https://github.com/efeumutaslan/styleguides/blob/clean-abap-turkish-translations/clean-abap/CleanABAP_tr.md)
 
 **Not:** Orijinal projeye yapılan katkı talebi (Pull Request) henüz beklemededir. Bu repo, çevirinin topluluğun kullanımına erken sunulması amacıyla oluşturulmuştur.
 

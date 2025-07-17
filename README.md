@@ -1,18 +1,13 @@
-> ## 🇹🇷 TÜRKÇE ÇEVİRİ BİLGİLENDİRMESİ (TURKISH TRANSLATION NOTICE)
->
-> Bu repo, SAP'nin resmi [styleguides](https://github.com/SAP/styleguides) projesinin bir kopyasıdır (fork). Bu kopyanın temel amacı, **Clean ABAP** rehberinin Türkçe çevirisini ABAP geliştirici topluluğu ile paylaşmaktır.
->
-> ### ➡️ [Clean ABAP Türkçe Çevirisine Ulaşmak İçin Tıklayın](https://github.com/efeumutaslan/styleguides/blob/clean-abap-turkish-translations/clean-abap/CleanABAP_tr.md)
->
-> Yukarıdaki link, sizi doğrudan çeviri dosyalarının bulunduğu `clean-abap-turkish-translations` branch'ine yönlendirecektir.
->
-> ---
->
-> > **TURKISH TRANSLATION NOTICE**
-> >
-> > This is a fork of SAP's official [styleguides](https://github.com/SAP/styleguides) repository. The main purpose of this fork is to host the Turkish translation of the **Clean ABAP** guide. You can access the translation by clicking the link above. The Pull Request for this translation is currently pending review in the original repository.
+## Clean ABAP - Türkçe Çeviri Projesi
 
----
+Bu repo, SAP'nin resmi `styleguides` projesinin bir kopyasıdır (fork) ve **Clean ABAP** rehberinin topluluk tarafından yapılmış Türkçe çevirisini barındırmaktadır.
+
+### ➡️ [Çeviriyi Görüntülemek İçin Buraya Tıklayın](https://github.com/KULLANICI_ADINIZ/styleguides/tree/TURKCE_CEVIRI_BRANCH_ADINIZ/clean-abap)
+
+**Not:** Orijinal projeye yapılan katkı talebi (Pull Request) henüz beklemededir. Bu repo, çevirinin topluluğun kullanımına erken sunulması amacıyla oluşturulmuştur.
+
+#### *Turkish Translation Project*
+*This is a fork of SAP's official `styleguides` repository, created to host the Turkish community translation of the **Clean ABAP** guide. The Pull Request is currently pending in the original repository. Click the link above to view the translation.*
 
 # SAP Code Style Guides
 
